@@ -1,0 +1,19 @@
+{
+  "name": "qb_learn_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.17.7",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
